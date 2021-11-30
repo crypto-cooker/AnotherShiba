@@ -27,7 +27,7 @@ export default {
   ],
   server: {
     port: 80,
-    host: '0.0.0.0', // default: localhost,
+
     // timing: false
   },
   // Auto import components: https://go.nuxtjs.dev/config-components
